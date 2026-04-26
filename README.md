@@ -23,7 +23,8 @@
   - **Persistence:** Integrated with `window.storage` for cross-device synchronization and `localStorage` for theme/session state.
   - **Real-time:** Polling-based sync engine to ensure data consistency across multiple concurrent voters.
 
-  ## Setup
+  ## Setup / Usage
+  
   1. Open the Site link in any modern browser.
   2. Explore the various pages
   3. Vote (Home Page): Where u vote for your fav candidates by giving them stars, reactions, and leaving a comment.
