@@ -24,11 +24,15 @@
   - **Real-time:** Polling-based sync engine to ensure data consistency across multiple concurrent voters.
 
   ## Setup
-  1. Open the HTML file in any modern browser.
-  2. Default SuperAdmin Credentials:
-     - **Username:** `superadmin`
-     - **Password:** `admin2024`
-  3. *Note:* It is highly recommended to change the default password upon first login via the Admin > My Account section.
+  1. Open the Site link in any modern browser.
+  2. Explore the various pages
+  3. Vote (Home Page): Where u vote for your fav candidates by giving them stars, reactions, and leaving a comment.
+  4. Live Zone: A real-time candidate momentum tracker — auto-refresh every 5s, this tells u who's leading the vote race
+  5. Wall Of Fame: Tells u the top performers across all categories, and mention their prizes to be won, from 1st to 3rd place.
+  6. Admin Pannel: To manage and regulate the voting platform. Adding candidate and monitoring stats
+  7. Dashboard: The overall info of the activities on the site
+
+
 
   ---
-  Developed for the Liberian Community Awards Season.
+  Developed for the Liberian 🇱🇷 Student Community Awards Season, in India 🇮🇳.
